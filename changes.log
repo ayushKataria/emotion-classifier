@@ -1,0 +1,4 @@
+Changed streamlit version to 1.33.0 as webrtc video does not work on newer versions yet
+Updated appfinal.py to use recv function and to capture image and emotion every 5 seconds, change time according to your usage
+
+Add the code to render at the end of the file, after line 248
